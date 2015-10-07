@@ -1,2 +1,2 @@
 # Test-Repo
-My first timee setting up a Repo
+My first time setting up a Repo
